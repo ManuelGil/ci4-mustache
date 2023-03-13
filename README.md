@@ -1,7 +1,7 @@
 # Codeigniter 4 with Template Engine
 
-[![GitHub Release](https://img.shields.io/github/v/release/ManuelGil/ci4-mustache)](https://github.com/ManuelGil/ci4-mustache/releases/tag/v1.0.0)
-[![GitHub Release Date](https://img.shields.io/github/release-date/ManuelGil/ci4-mustache)](https://github.com/ManuelGil/ci4-mustache/releases/tag/v1.0.0)
+[![GitHub Release](https://img.shields.io/github/v/release/ManuelGil/ci4-mustache)](https://github.com/ManuelGil/ci4-mustache/releases/tag/v1.1.0)
+[![GitHub Release Date](https://img.shields.io/github/release-date/ManuelGil/ci4-mustache)](https://github.com/ManuelGil/ci4-mustache/releases/tag/v1.1.0)
 [![GitHub license](https://img.shields.io/github/license/ManuelGil/ci4-mustache)](./LICENSE)
 
 Boilerplate with CodeIgniter 4 and Mustache Template Engine.
@@ -85,8 +85,7 @@ $ php spark serve
 
 -   PHP 7.4.16 ([XAMPP](https://www.apachefriends.org/download.html))
 -   COMPOSER 2.1.3 ([COMPOSER](https://getcomposer.org/download/))
--   CodeIgniter 4.2.7 ([COMPOSER](https://www.codeigniter.com/download))
--   Visual Studio Code 1.70.0 ([VSCode](https://code.visualstudio.com/download))
+-   CodeIgniter 4.3.2 ([CodeIgniter](https://www.codeigniter.com/download))
 -   Mustache Template - Snippets & Autocomplete for VSCode 1.1.0 ([Mustache Template - Snippets & Autocomplete](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets))
 
 ## Changelog
