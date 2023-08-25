@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.7.0] - 2023-08-25
+
+### Changed
+
+- Update version 4.4.0 of CodeIgniter.
+
 ## [1.6.0] - 2023-07-31
 
 ### Changed
@@ -59,7 +65,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename welcome_message.php to welcome_message.mustache.
 - Convert welcome_message.mustache to child of layout.mustache.
 
-[unreleased]: https://github.com/ManuelGil/ci4-mustache/compare/v1.6.0...HEAD
+[unreleased]: https://github.com/ManuelGil/ci4-mustache/compare/v1.7.0...HEAD
+[1.7.0]: https://github.com/ManuelGil/ci4-mustache/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/ManuelGil/ci4-mustache/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/ManuelGil/ci4-mustache/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/ManuelGil/ci4-mustache/compare/v1.3.0...v1.4.0
