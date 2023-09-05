@@ -6,7 +6,7 @@ use CodeIgniter\CodeIgniter;
 
 class Home extends BaseController
 {
-    public function index()
+    public function index(): string
     {
         $data = [
             'CI_VERSION' => CodeIgniter::CI_VERSION,
@@ -18,7 +18,7 @@ class Home extends BaseController
         return $this->render('welcome_message.mustache', $data);
     }
 
-    public function example()
+    public function example(): string
     {
         $users = [
             [
