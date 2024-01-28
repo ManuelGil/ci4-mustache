@@ -4,9 +4,6 @@
     "license": "MIT",
     "type": "project",
     "keywords": [
-        "mustache template engine",
-        "mustache-template-engine",
-        "mustache",
         "ci-4",
         "ci",
         "ci4",
@@ -15,6 +12,9 @@
         "codeigniter",
         "codeigniter4",
         "framework",
+        "mustache template engine",
+        "mustache-template-engine",
+        "mustache",
         "mvc",
         "php",
         "template engine",
@@ -23,7 +23,7 @@
     "authors": [
         {
             "name": "ManuelGil",
-            "email": "atencion.ms@outlook.com",
+            "email": "support@imgil.dev",
             "role": "Developer"
         }
     ],

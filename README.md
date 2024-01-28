@@ -1,10 +1,13 @@
 # Codeigniter 4 with Mustache Template Engine
 
-[![GitHub Release](https://img.shields.io/github/v/release/ManuelGil/ci4-mustache)](https://github.com/ManuelGil/ci4-mustache/releases/tag/v1.11.1)
-[![GitHub Release Date](https://img.shields.io/github/release-date/ManuelGil/ci4-mustache)](https://github.com/ManuelGil/ci4-mustache/releases/tag/v1.11.1)
-[![GitHub license](https://img.shields.io/github/license/ManuelGil/ci4-mustache)](./LICENSE)
+[![Packagist Version](https://img.shields.io/packagist/v/manuelgil/ci4-mustache?style=for-the-badge&logo=packagist)](https://packagist.org/packages/manuelgil/ci4-mustache)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/manuelgil/ci4-mustache?style=for-the-badge&logo=packagist)](https://packagist.org/packages/manuelgil/ci4-mustache)
+[![Packagist Stars](https://img.shields.io/packagist/stars/manuelgil/ci4-mustache?style=for-the-badge&logo=github)](https://github.com/ManuelGil/ci4-mustache)
+[![Packagist License](https://img.shields.io/packagist/l/manuelgil/ci4-mustache?style=for-the-badge&logo=github)](https://github.com/ManuelGil/ci4-mustache/blob/main/LICENSE)
 
-🔥 Boilerplate: Mustache template engine for CodeIgniter 4 framework. This project is a simple and fast way to start a new project with CodeIgniter 4 and Twig Template Engine.
+🔥 Boilerplate: Mustache template engine for CodeIgniter 4 framework. This project is a simple and fast way to start a new project with CodeIgniter 4 and Mustache Template Engine.
+
+This project is based on the [Codeigniter 4 with Template Engine](https://github.com/ManuelGil/ci4-template-engine).
 
 ## Requirements
 
@@ -82,7 +85,7 @@ php spark serve
 
 ## Built With
 
-- CodeIgniter 4.4.4 ([CodeIgniter](https://www.codeigniter.com/download))
+- CodeIgniter 4.4.5 ([CodeIgniter](https://www.codeigniter.com/download))
 - Mustache Template Engine - Snippets & Autocomplete for VSCode ([Mustache Template - Snippets & Autocomplete](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets))
 
 ## Changelog
