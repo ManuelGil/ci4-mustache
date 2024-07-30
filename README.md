@@ -85,7 +85,7 @@ php spark serve
 
 ## Built With
 
-- CodeIgniter 4.5.1 ([CodeIgniter](https://www.codeigniter.com/download))
+- CodeIgniter 4.5.4 ([CodeIgniter](https://www.codeigniter.com/download))
 - Mustache Template Engine - Snippets & Autocomplete for VSCode ([Mustache Template - Snippets & Autocomplete](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets))
 
 ## Changelog
