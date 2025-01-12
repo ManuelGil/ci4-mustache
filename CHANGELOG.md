@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.18.0] - 2025-01-12
+
+### Changed
+
+- Update version 4.5.7 of CodeIgniter.
+
 ## [1.17.0] - 2024-07-29
 
 ### Changed
